@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a99fe77f1c946d50",
+        "id": "9b81fafbb6315bb4",
         "type": "tabs",
         "children": [
           {
-            "id": "6e5155bf9d058d49",
+            "id": "0bed336c3d40d21c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c2e82d9312ba5bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7146c55c886938a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DaisyUI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "078c6e4d246d6c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tailwind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5343c9040c05d40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cff656a39a16f486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -49,7 +110,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-17.md"
+                "file": "Questions.md"
               }
             }
           }
@@ -122,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-17.md",
+                "file": "Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-17.md",
+                "file": "Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,10 +228,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e5155bf9d058d49",
+  "active": "cff656a39a16f486",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Angular.md",
+    "Questions.md",
+    "Tailwind.md",
+    "DaisyUI.md",
+    "Resources.md",
     "2023-07-17.md",
+    "Resources.canvas",
+    "Untitled 1.canvas",
     "2023-07-16.md"
   ]
 }
